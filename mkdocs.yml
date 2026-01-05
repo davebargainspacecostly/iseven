@@ -1,31 +1,14 @@
-site_name: 'my rocking docs site name'
+site_name: 'Example with Animals'
 site_description: An informative description
 plugins:
   - techdocs-core
-nav:
-  - Overview:
-      - What is Backstage?: 'index.md'
-      - Architecture overview: 'fish.md'
-      - Project Roadmap: 'overview/roadmap.md'
-      - Vision: 'overview/vision.md'
-      - The Spotify Story: 'overview/background.md'
-      - Strategies for adopting: 'overview/adopting.md'
-      - Release & Versioning Policy: 'overview/versioning-policy.md'
-      - Backstage Threat Model: 'overview/threat-model.md'
-      - Support and community: 'overview/support.md'
-      - Logo assets: 'overview/logos.md'
-  - Getting Started:
-      - Creating your Backstage App: 'getting-started/index.md'
-      - Configuring Backstage:
-          - Database: 'getting-started/config/database.md'
-          - Authentication: 'getting-started/config/authentication.md'
-          - Configuring App with plugins: 'getting-started/configure-app-with-plugins.md'
-          - Customize the look-and-feel of your App: 'getting-started/app-custom-theme.md'
-          - Customizing your Homepage: 'getting-started/homepage.md'
-      - Using Backstage:
-          - Logging in: 'getting-started/logging-in.md'
-          - Register a component: 'getting-started/register-a-component.md'
-          - Create a component: 'getting-started/create-a-component.md'
-      - Keeping Backstage Updated: 'getting-started/keeping-backstage-updated.md'
-      - Key Concepts: 'getting-started/concepts.md'
-
+  - literate-nav:
+      nav_file: SUMMARY.md
+#nav:
+#  - Overview: 'index.md'
+#  - What is a fish: 'fish.md'
+#  - All the Animals: 'all.md'
+#  - Each Animal:
+#    - Dog: 'dog.md'
+#    - Cat: 'cat.md'
+#    - Frog: 'frog.md'
