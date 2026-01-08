@@ -2,13 +2,13 @@ site_name: 'Example with Animals'
 site_description: An informative description
 plugins:
   - techdocs-core
-  - literate-nav:
-      nav_file: SUMMARY.md
-#nav:
-#  - Overview: 'index.md'
+#  - literate-nav:
+#      nav_file: SUMMARY.md
+nav:
+  - Overview: 'index.md'
 #  - What is a fish: 'fish.md'
 #  - All the Animals: 'all.md'
-#  - Each Animal:
+  - Each Animal:
 #    - Dog: 'dog.md'
 #    - Cat: 'cat.md'
 #    - Frog: 'frog.md'
