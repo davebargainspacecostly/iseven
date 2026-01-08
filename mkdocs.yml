@@ -17,8 +17,8 @@ nav:
     - cat: 'animals/cat.md'
     - frog: 'animals/frog.md'
 
-# literate-nav (not supported in backstage)
-* [Overview](index.md)
-* [What is a fish](fish.md)
-* [All animals](animals/all.md)
-* [Animals](animals/)
+#plugins:- literate-nav (not supported in backstage)
+#* [Overview](index.md)
+#* [What is a fish](fish.md)
+#* [All animals](animals/all.md)
+#* [Animals](animals/)
