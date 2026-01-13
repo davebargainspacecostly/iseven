@@ -51,5 +51,5 @@ with open('docs/animals/all.md', "w") as text_file:
 j2_template = Template(mkdocs_template)
 print('saving to filename mkdocs.yml')
 with open('mkdocs.yml', "w") as text_file:
-  #text_file.write(j2_template.render(animals=animals))
-  print(j2_template.render(animals=animals))
+  text_file.write(j2_template.render(animals=animals))
+  #print(j2_template.render(animals=animals))
