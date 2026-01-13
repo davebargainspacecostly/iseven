@@ -14,3 +14,6 @@ This is where you will find a list of all our animals
 
 [Deploy a hamster](https://giphy.com/hamster)
 
+
+[Deploy a snake](https://giphy.com/snake)
+

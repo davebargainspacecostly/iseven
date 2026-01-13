@@ -2,12 +2,6 @@ site_name: 'Example with Animals'
 site_description: An informative description
 plugins:
   - techdocs-core
-#  - literate-nav:
-#      nav_file: SUMMARY.md
-#  - redirects:
-#      redirect_maps:
-#        'index.md': 'animals/all.md'
-
 nav:
   - Overview: 'index.md'
   - What is a fish: 'fish.md'
@@ -16,9 +10,5 @@ nav:
     - dog: 'animals/dog.md'
     - cat: 'animals/cat.md'
     - frog: 'animals/frog.md'
-
-#plugins:- literate-nav (not supported in backstage)
-#* [Overview](index.md)
-#* [What is a fish](fish.md)
-#* [All animals](animals/all.md)
-#* [Animals](animals/)
+    - hamster: 'animals/hamster.md'
+    - snake: 'animals/snake.md'
