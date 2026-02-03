@@ -17,3 +17,6 @@ This is where you will find a list of all our animals
 
 [ArgoCD for snake](https://giphy.com/snake)
 
+
+[ArgoCD for elephant](https://giphy.com/elephant)
+
