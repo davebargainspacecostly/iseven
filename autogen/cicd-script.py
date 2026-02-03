@@ -1,6 +1,6 @@
 from jinja2 import Template
 
-animals = ["dog", "cat", "frog", "hamster", "snake"]
+animals = ["dog", "cat", "frog", "hamster", "snake", "elephant"]
 
 all_animals_page_template = """# All animals
 
