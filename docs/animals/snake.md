@@ -6,4 +6,4 @@ This is where you will find out about a snake
 
 [Search for snake](https://google.com/search?q=snake)
 
-[Deploy a snake](https://giphy.com/snake)
+[ArgoCD for snake](https://giphy.com/snake)

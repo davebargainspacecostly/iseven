@@ -7,7 +7,7 @@ all_animals_page_template = """# All animals
 This is where you will find a list of all our animals
 
 {% for animal in animals %}
-[Deploy a {{ animal }}](https://giphy.com/{{ animal }})
+[ArgoCD for {{ animal }}](https://giphy.com/{{ animal }})
 
 {% endfor %}
 """
@@ -20,7 +20,7 @@ This is where you will find out about a {{ animal }}
 
 [Search for {{ animal }}](https://google.com/search?q={{ animal }})
 
-[Deploy a {{ animal }}](https://giphy.com/{{ animal }})
+[ArgoCD for {{ animal }}](https://giphy.com/{{ animal }})
 """
 
 mkdocs_template = """site_name: 'Example with Animals'

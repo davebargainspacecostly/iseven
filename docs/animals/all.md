@@ -3,17 +3,17 @@
 This is where you will find a list of all our animals
 
 
-[Deploy a dog](https://giphy.com/dog)
+[ArgoCD for dog](https://giphy.com/dog)
 
 
-[Deploy a cat](https://giphy.com/cat)
+[ArgoCD for cat](https://giphy.com/cat)
 
 
-[Deploy a frog](https://giphy.com/frog)
+[ArgoCD for frog](https://giphy.com/frog)
 
 
-[Deploy a hamster](https://giphy.com/hamster)
+[ArgoCD for hamster](https://giphy.com/hamster)
 
 
-[Deploy a snake](https://giphy.com/snake)
+[ArgoCD for snake](https://giphy.com/snake)
 

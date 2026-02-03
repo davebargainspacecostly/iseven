@@ -6,4 +6,4 @@ This is where you will find out about a dog
 
 [Search for dog](https://google.com/search?q=dog)
 
-[Deploy a dog](https://giphy.com/dog)
+[ArgoCD for dog](https://giphy.com/dog)

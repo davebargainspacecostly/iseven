@@ -6,4 +6,4 @@ This is where you will find out about a hamster
 
 [Search for hamster](https://google.com/search?q=hamster)
 
-[Deploy a hamster](https://giphy.com/hamster)
+[ArgoCD for hamster](https://giphy.com/hamster)
