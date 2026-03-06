@@ -20,3 +20,6 @@ This is where you will find a list of all our animals
 
 [ArgoCD for elephant](https://giphy.com/elephant)
 
+
+[ArgoCD for giraffe](https://giphy.com/giraffe)
+
